@@ -17,7 +17,7 @@ yarn start
 
 ## Credits
 
-This project was created as a fork of [this project](https://github.com/amandeepmittal/blog-examples/tree/master/react/react-router-v6-example) and based on [this LogRocket article](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3/). This project has the following modifications compared to the original project:
+This project was created as a fork of [this project](https://github.com/amandeepmittal/blog-examples/tree/master/react/react-router-v6-example) and based on [this LogRocket article](https://blog.logrocket.com/react-router-v6/). This project has the following modifications compared to the original project:
 
 - Up-to-date dependencies
 - A 404 - page-not-found view 
